@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Personal Organiser</string>
+    <string name="title_activity_friends">Friends</string>
+    <string name="title_activity_tasks">Tasks</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_add_friend">Add Friend</string>
+    <string name="title_activity_view_friend">Friend Details</string>
+    <string name="title_activity_edit_friend">Edit Friend</string>
+    <string name="title_activity_add_task">Add Task</string>
+    <string name="title_activity_view_task">Task Details</string>
+    <string name="title_activity_gallery">Choose Picture</string>
+    <string name="title_activity_edit_friend_gallery">Choose Picture</string>
+    <string name="title_activity_add_event">Add Event</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

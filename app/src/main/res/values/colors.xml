@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#336799</color>
+    <color name="colorPrimaryDark">#264e73</color>
+    <color name="colorAccent">#264e73</color>
+    <color name="taskComplete">#4CAF50</color>
+    <color name="taskIncomplete">#FFC107</color>
+</resources>

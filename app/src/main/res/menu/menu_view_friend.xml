@@ -1,0 +1,31 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dhani.assignment1.ViewFriendActivity">
+
+    <item
+        android:id="@+id/miHome"
+        android:title="Home"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/miFriends"
+        android:title="Home"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/miTasks"
+        android:title="Tasks"
+        android:orderInCategory="102"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/miEvents"
+        android:title="Events"
+        android:orderInCategory="103"
+        app:showAsAction="never" />
+
+</menu>
