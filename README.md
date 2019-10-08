@@ -9,8 +9,8 @@ An Android app which enables a user to organise contacts, tasks, and events.
 - View the addresses of contacts and events on a map
 - Comprehensive educational source for music theory
 
-**Technologies used*:
+**Technologies used**:
 
 - Java
 - SQLLite database
-- GPS technology
+- Google Maps
