@@ -1,4 +1,4 @@
-# PersonalOrganiser
+# Personal Organiser
 An Android app which enables a user to organise contacts, tasks, and events.
 
 ![alt text](https://i.ibb.co/S5VSJ9y/personal-organiser.png)
@@ -9,7 +9,7 @@ An Android app which enables a user to organise contacts, tasks, and events.
 - View the addresses of contacts and events on a map
 - Comprehensive educational source for music theory
 
-Technologies used:
+**Technologies used*:
 
 - Java
 - SQLLite database
